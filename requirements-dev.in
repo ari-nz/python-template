@@ -1,0 +1,5 @@
+ipykernel
+moto
+pre-commit
+pytest
+ruff

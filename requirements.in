@@ -1,0 +1,14 @@
+aws-lambda-powertools
+boto3
+datasetsforecast
+pandas
+plotly
+plotnine
+pydantic
+python-dotenv
+rich
+shortuuid
+scikit-learn
+statsforecast
+statsmodels
+streamlit
